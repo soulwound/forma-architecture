@@ -1867,3 +1867,13 @@ textarea:focus-visible {
         transform: none;
     }
 }
+.arrow-icon,
+.arrow-down-icon,
+.arrow-up-icon,
+.select-arrow {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    vertical-align: middle;
+}
